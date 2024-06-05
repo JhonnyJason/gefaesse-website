@@ -190,5 +190,7 @@
         "stylus": "^0.63.0",
         "webpack": "^5.91.0",
         "webpack-cli": "^5.1.4"
-    }
+    },
+    "thingytype": "pwa",
+    "lang": "en"
 }
